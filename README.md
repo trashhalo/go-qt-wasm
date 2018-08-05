@@ -1,7 +1,7 @@
 # go-qt-wasm
 Realtime svg generation using golang webassembly + [quicktemplates](https://github.com/valyala/quicktemplate) at 60 fps
 
-# FLASHING COLOR SIEZURE WARNING
+# FLASHING COLOR SEIZURE WARNING
 I took the famous tiger svg image and changed every color to be a random color.
 I tried to make it less obnoxious by making the colors greyscale but results may vary.  
 [DEMO](https://relaxed-hypatia-91d67a.netlify.com/)
