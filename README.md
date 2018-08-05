@@ -3,7 +3,8 @@ Realtime svg generation using golang webassembly + [quicktemplates](https://gith
 
 # FLASHING COLOR SIEZURE WARNING
 I took the famous tiger svg image and changed every color to be a random color.
-I tried to make it less obnoxious by making the colors greyscale but results may vary.
+I tried to make it less obnoxious by making the colors greyscale but results may vary.  
+[DEMO](https://relaxed-hypatia-91d67a.netlify.com/)
 
 # building
 You need go 1.11 beta3 for wasm and go module support
